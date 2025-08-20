@@ -1,0 +1,33 @@
+{
+  "skills": [
+    "Python", "JavaScript", "Java", "C++", "C#", "Ruby", "PHP", "Swift", "Kotlin", "Go",
+    "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask", "Spring Boot",
+    "HTML", "CSS", "SASS", "Bootstrap", "Tailwind CSS", "TypeScript", "jQuery",
+    "SQL", "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle", "NoSQL", "Redis",
+    "AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Jenkins", "CI/CD", "Linux",
+    "Git", "GitHub", "GitLab", "SVN", "Version Control",
+    "Machine Learning", "Deep Learning", "Data Science", "Artificial Intelligence",
+    "TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn",
+    "Statistics", "Data Analysis", "Data Visualization", "R", "Tableau", "Power BI",
+    "Excel", "Google Sheets", "PowerPoint", "Word", "Outlook",
+    "Figma", "Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Sketch", "InVision",
+    "User Research", "Wireframing", "Prototyping", "Design Systems", "Usability Testing",
+    "Interaction Design", "Visual Design", "UI/UX Design",
+    "Product Management", "Product Strategy", "Roadmapping", "A/B Testing", "Analytics",
+    "Google Analytics", "SEO", "SEM", "Social Media Marketing", "Content Marketing",
+    "Email Marketing", "PPC", "Marketing Automation", "Conversion Optimization",
+    "Project Management", "Agile", "Scrum", "Kanban", "Jira", "Trello", "Asana",
+    "Communication", "Leadership", "Team Management", "Problem Solving", "Critical Thinking",
+    "Time Management", "Presentation Skills", "Public Speaking", "Writing", "Editing",
+    "Customer Service", "Sales", "Negotiation", "Business Analysis", "Process Mapping",
+    "Requirements Gathering", "Stakeholder Management", "Documentation",
+    "Network Security", "Cybersecurity", "Penetration Testing", "Risk Assessment",
+    "Incident Response", "Compliance", "Firewalls", "Encryption", "SIEM",
+    "API Development", "REST APIs", "GraphQL", "Microservices", "System Design",
+    "Testing", "Unit Testing", "Integration Testing", "Automation Testing", "QA",
+    "Terraform", "Ansible", "Chef", "Puppet", "Monitoring", "Logging", "DevOps",
+    "Blockchain", "Cryptocurrency", "Smart Contracts", "Web3", "DeFi", "NFT",
+    "IoT", "Edge Computing", "5G", "AR/VR", "Computer Vision", "NLP",
+    "Ethical Hacking", "Bug Bounty", "Malware Analysis", "Digital Forensics"
+  ]
+}

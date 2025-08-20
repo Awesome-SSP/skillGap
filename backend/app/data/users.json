@@ -1,0 +1,45 @@
+{
+  "user_aa2769e9": {
+    "user_id": "user_aa2769e9",
+    "name": "Nevil Sequeira",
+    "contact": {
+      "email": "sequeiranevil7@gmail.com",
+      "phone": null,
+      "linkedin": "linkedin.com/in/nevil-sequeira",
+      "location": null
+    },
+    "skills": [
+      "AWS",
+      "Agile",
+      "Azure",
+      "Bootstrap",
+      "CSS",
+      "Express",
+      "Fastapi",
+      "Flask",
+      "GCP",
+      "Git",
+      "Github",
+      "Gitlab",
+      "HTML",
+      "Java",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "OAuth",
+      "PostgreSQL",
+      "Python",
+      "React",
+      "SQL",
+      "Tailwind",
+      "TypeScript",
+      "Vue"
+    ],
+    "experience": [],
+    "parsed_text_snippet": "Nevil Sequeira\n(cid:131) +91 88661-67226 # sequeiranevil7@gmail.com (cid:239) linkedin.com/in/nevil-sequeira \u00a7 github.com/Nevil1234\nEducation\nA. D. Patel Institute Of Technology, V. V. Nagar Sep. 2022...",
+    "target_role": "Machine Learning Engineer",
+    "upload_timestamp": "2025-08-19T12:04:26.103044"
+    
+  }
+}

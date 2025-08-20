@@ -1,0 +1,102 @@
+{
+  "Data Analyst": [
+    "Python",
+    "SQL", 
+    "Excel",
+    "Tableau",
+    "Power BI",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Statistics",
+    "Data Visualization"
+  ],
+  "Python Developer": [
+    "Python",
+    "Django",
+    "Flask", 
+    "FastAPI",
+    "PostgreSQL",
+    "Git",
+    "REST API",
+    "Docker",
+    "Linux",
+    "Unit Testing"
+  ],
+  "Frontend Developer": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Tailwind",
+    "Git",
+    "REST API", 
+    "Webpack",
+    "Node.js"
+  ],
+  "Machine Learning Engineer": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "Docker",
+    "Kubernetes",
+    "MLOps",
+    "Statistics"
+  ],
+  "Full Stack Developer": [
+    "JavaScript",
+    "TypeScript", 
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "AWS",
+    "REST API"
+  ],
+  "DevOps Engineer": [
+    "Linux",
+    "Docker",
+    "Kubernetes", 
+    "AWS",
+    "Jenkins",
+    "Git",
+    "Bash",
+    "Python",
+    "Terraform",
+    "Ansible",
+    "CI/CD"
+  ],
+  "Data Scientist": [
+    "Python",
+    "R",
+    "Machine Learning",
+    "Deep Learning",
+    "Statistics",
+    "Pandas",
+    "NumPy", 
+    "Matplotlib",
+    "Jupyter",
+    "SQL",
+    "TensorFlow"
+  ],
+  "Mobile Developer": [
+    "React Native",
+    "Flutter",
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "JavaScript",
+    "Firebase",
+    "REST API",
+    "Git"
+  ]
+}

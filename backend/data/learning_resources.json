@@ -1,0 +1,242 @@
+{
+  "Python": {
+    "skill": "Python",
+    "description": "Learn Python programming fundamentals including data structures, functions, and object-oriented programming. Essential for data science, web development, and automation.",
+    "difficulty": "Beginner",
+    "estimatedHours": 40,
+    "resources": [
+      {
+        "title": "Python for Everybody Specialization",
+        "url": "https://www.coursera.org/specializations/python",
+        "type": "Course",
+        "provider": "Coursera",
+        "duration": "8 months",
+        "rating": 4.8
+      },
+      {
+        "title": "Automate the Boring Stuff with Python",
+        "url": "https://automatetheboringstuff.com/",
+        "type": "Book",
+        "provider": "Online Book",
+        "duration": "Self-paced",
+        "rating": 4.7
+      }
+    ]
+  },
+  "Machine Learning": {
+    "skill": "Machine Learning",
+    "description": "Master machine learning algorithms, model evaluation, and practical implementation using popular libraries like scikit-learn and TensorFlow.",
+    "difficulty": "Intermediate",
+    "estimatedHours": 60,
+    "resources": [
+      {
+        "title": "Machine Learning Course",
+        "url": "https://www.coursera.org/learn/machine-learning",
+        "type": "Course",
+        "provider": "Coursera", 
+        "duration": "11 weeks",
+        "rating": 4.9
+      },
+      {
+        "title": "Hands-On Machine Learning",
+        "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+        "type": "Book",
+        "provider": "O'Reilly",
+        "duration": "Self-paced",
+        "rating": 4.6
+      }
+    ]
+  },
+  "JavaScript": {
+    "skill": "JavaScript",
+    "description": "Master JavaScript fundamentals, ES6+ features, DOM manipulation, and asynchronous programming for modern web development.",
+    "difficulty": "Beginner",
+    "estimatedHours": 45,
+    "resources": [
+      {
+        "title": "JavaScript: The Complete Guide",
+        "url": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "type": "Course",
+        "provider": "Udemy", 
+        "duration": "52 hours",
+        "rating": 4.6
+      },
+      {
+        "title": "MDN JavaScript Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "type": "Documentation",
+        "provider": "MDN",
+        "duration": "Self-paced",
+        "rating": 4.8
+      }
+    ]
+  },
+  "React": {
+    "skill": "React",
+    "description": "Learn React.js for building modern, interactive user interfaces with component-based architecture and state management.",
+    "difficulty": "Intermediate",
+    "estimatedHours": 35,
+    "resources": [
+      {
+        "title": "React - The Complete Guide",
+        "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+        "type": "Course",
+        "provider": "Udemy",
+        "duration": "48.5 hours", 
+        "rating": 4.6
+      },
+      {
+        "title": "Official React Tutorial",
+        "url": "https://reactjs.org/tutorial/tutorial.html",
+        "type": "Tutorial",
+        "provider": "React.js",
+        "duration": "2-3 hours",
+        "rating": 4.8
+      }
+    ]
+  },
+  "SQL": {
+    "skill": "SQL", 
+    "description": "Learn SQL for database querying, data analysis, and database management across different database systems.",
+    "difficulty": "Beginner",
+    "estimatedHours": 30,
+    "resources": [
+      {
+        "title": "SQL for Data Science",
+        "url": "https://www.coursera.org/learn/sql-for-data-science",
+        "type": "Course",
+        "provider": "Coursera",
+        "duration": "4 weeks",
+        "rating": 4.6
+      },
+      {
+        "title": "W3Schools SQL Tutorial",
+        "url": "https://www.w3schools.com/sql/",
+        "type": "Tutorial", 
+        "provider": "W3Schools",
+        "duration": "Self-paced",
+        "rating": 4.5
+      }
+    ]
+  },
+  "Node.js": {
+    "skill": "Node.js",
+    "description": "Learn server-side JavaScript with Node.js for building scalable backend applications and APIs.",
+    "difficulty": "Intermediate",
+    "estimatedHours": 40,
+    "resources": [
+      {
+        "title": "Node.js: The Complete Guide",
+        "url": "https://www.udemy.com/course/nodejs-the-complete-guide/",
+        "type": "Course",
+        "provider": "Udemy",
+        "duration": "40 hours",
+        "rating": 4.6
+      },
+      {
+        "title": "Node.js Documentation",
+        "url": "https://nodejs.org/en/docs/",
+        "type": "Documentation",
+        "provider": "Node.js",
+        "duration": "Self-paced",
+        "rating": 4.7
+      }
+    ]
+  },
+  "AWS": {
+    "skill": "AWS",
+    "description": "Master Amazon Web Services cloud computing platform including core services, security, and best practices.",
+    "difficulty": "Intermediate", 
+    "estimatedHours": 50,
+    "resources": [
+      {
+        "title": "AWS Certified Solutions Architect",
+        "url": "https://www.aws.amazon.com/certification/certified-solutions-architect-associate/",
+        "type": "Certification",
+        "provider": "AWS",
+        "duration": "3-6 months",
+        "rating": 4.7
+      },
+      {
+        "title": "AWS Cloud Practitioner Essentials",
+        "url": "https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/",
+        "type": "Course",
+        "provider": "AWS",
+        "duration": "6 hours",
+        "rating": 4.8
+      }
+    ]
+  },
+  "Docker": {
+    "skill": "Docker",
+    "description": "Learn containerization with Docker for application deployment, scaling, and infrastructure management.",
+    "difficulty": "Intermediate",
+    "estimatedHours": 25,
+    "resources": [
+      {
+        "title": "Docker and Kubernetes: The Complete Guide",
+        "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+        "type": "Course", 
+        "provider": "Udemy",
+        "duration": "21.5 hours",
+        "rating": 4.6
+      },
+      {
+        "title": "Docker Official Documentation",
+        "url": "https://docs.docker.com/get-started/",
+        "type": "Documentation",
+        "provider": "Docker",
+        "duration": "Self-paced",
+        "rating": 4.7
+      }
+    ]
+  },
+  "Git": {
+    "skill": "Git",
+    "description": "Master version control with Git for collaborative software development and project management.",
+    "difficulty": "Beginner",
+    "estimatedHours": 15,
+    "resources": [
+      {
+        "title": "Git & GitHub Crash Course",
+        "url": "https://www.udemy.com/course/git-and-github-bootcamp/",
+        "type": "Course",
+        "provider": "Udemy",
+        "duration": "17 hours",
+        "rating": 4.7
+      },
+      {
+        "title": "Pro Git Book",
+        "url": "https://git-scm.com/book",
+        "type": "Book",
+        "provider": "Git SCM",
+        "duration": "Self-paced",
+        "rating": 4.8
+      }
+    ]
+  },
+  "Figma": {
+    "skill": "Figma",
+    "description": "Learn Figma for UI/UX design, prototyping, and collaborative design workflows.",
+    "difficulty": "Beginner",
+    "estimatedHours": 20,
+    "resources": [
+      {
+        "title": "Figma UI UX Design Essentials",
+        "url": "https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/",
+        "type": "Course",
+        "provider": "Udemy",
+        "duration": "12 hours",
+        "rating": 4.6
+      },
+      {
+        "title": "Figma Academy",
+        "url": "https://www.figma.com/academy/",
+        "type": "Tutorial",
+        "provider": "Figma",
+        "duration": "Self-paced",
+        "rating": 4.8
+      }
+    ]
+  }
+}
